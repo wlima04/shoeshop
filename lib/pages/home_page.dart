@@ -1,7 +1,7 @@
 import '../core/const.dart';
 import '../core/flutter_icons.dart';
 import '../models/shoe_model.dart';
-//import '../pages/detail_page.dart';
+import '../pages/detail_page.dart';
 import '../widgets/app_clipper.dart';
 import 'package:flutter/material.dart';
 import 'dart:math' as math;
